@@ -1,0 +1,39 @@
+.flipkart-logo{
+    width: 100px;
+}
+.bg-f0f5ff{
+    background-color: #f0f5ff !important;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-space-between{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.uijhy{
+    font-family: inter_semi_bold,fallback-inter_semi_bold,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.asdfg{
+    font-family: inter_semi_bold,fallback-inter_semi_bold,Arial,sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+}
+@media (max-width: 768px) {
+    .hide {
+      display: none;
+    }
+}
+@media (max-width: 1200px) {
+    .hide-1200 {
+      display: none;
+    }
+}
+.price{
+    font-weight: bold;
+}
